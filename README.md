@@ -43,15 +43,11 @@ Conforme dito anteriormente, somente pinos com símbolo/identificação ~ podem 
 VALOR_ANALOGICO: valor (de 0 a 255), proporcional ao Duty Cycle a ser gerado.
 Ou seja, para Duty Cycle de 100%, deve-se utilizar valor 255, já para Duty Cycle 20% deve-se utilizar o valor 51 e assim por diante.
 
-# ATENÇÃO:
-
-1) NÃO utilize a alimentação pela USB de programação. Você, obrigatoriamente, deve utilizar a Fonte DC Chaveada 9V/1A. Caso contrário, você corre sérios riscos de danificar o dispositivo que está alimentando o Arduino pela USB de programação (computador, por exemplo).
-2) NÃO SE ESQUEÇA de colocar um jumper em ATIVA MA .
-
-<h1 class="western"><span style="font-size: xx-large;"><em><span style="color: #747474;"><strong>Circuito esquem&aacute;tico</strong></span></em></span></h1>
-<p><img src="file:///C:/Users/Aluno/AppData/Local/Temp/lu61004859jx.tmp/lu61004859ka_tmp_aba501163294a4af.jpg" width="602" height="603" name="image2.jpg" align="bottom" border="0" /></p>
-<h2><span style="font-size: small;"><em><span style="color: #747474;">O motor deve ser ligado como o esquema abaixo.</span></em></span></h2>
-<p><img src="file:///C:/Users/Aluno/AppData/Local/Temp/lu61004859jx.tmp/lu61004859ka_tmp_3656475efd271806.jpg" width="602" height="401" name="image1.jpg" align="bottom" border="0" /></p>
+<h1><em><strong>Circuito esquem&aacute;tico</strong></em></h1>
+<p><strong>ATEN&Ccedil;&Atilde;O</strong>:<br /><strong>1) N&Atilde;O</strong>&nbsp;utilize a alimenta&ccedil;&atilde;o pela USB de programa&ccedil;&atilde;o. Voc&ecirc;, obrigatoriamente, deve utilizar a Fonte DC Chaveada 9V/1A. Caso contr&aacute;rio, voc&ecirc; corre s&eacute;rios riscos de danificar o dispositivo que est&aacute; alimentando o Arduino pela USB de programa&ccedil;&atilde;o (computador, por exemplo).<br /><strong>2)</strong>&nbsp;<strong>N&Atilde;O SE ESQUE&Ccedil;A</strong>&nbsp;de colocar um jumper em ATIVA MA .</p>
 <p>&nbsp;</p>
+<p><img class="wp-image-85926 size-full aligncenter" src="https://uploads.filipeflop.com/2018/12/Ponte_H_L298n31.jpg" sizes="(max-width: 550px) 100vw, 550px" srcset="https://uploads.filipeflop.com/2018/12/Ponte_H_L298n31.jpg 550w, https://uploads.filipeflop.com/2018/12/Ponte_H_L298n31-150x150.jpg 150w, https://uploads.filipeflop.com/2018/12/Ponte_H_L298n31-300x300.jpg 300w, https://uploads.filipeflop.com/2018/12/Ponte_H_L298n31-100x100.jpg 100w" alt="Figura 4 - Driver (com ponte H) L298N" width="550" height="550" /></p>
+<h2><em>O motor deve ser ligado como o esquema abaixo.</em></h2>
+<p><img class="wp-image-85929 aligncenter" src="https://uploads.filipeflop.com/2018/12/motor_pwm_arduino_uno_JPEG.jpg" sizes="(max-width: 599px) 100vw, 599px" srcset="https://uploads.filipeflop.com/2018/12/motor_pwm_arduino_uno_JPEG.jpg 1839w, https://uploads.filipeflop.com/2018/12/motor_pwm_arduino_uno_JPEG-300x200.jpg 300w, https://uploads.filipeflop.com/2018/12/motor_pwm_arduino_uno_JPEG-768x511.jpg 768w, https://uploads.filipeflop.com/2018/12/motor_pwm_arduino_uno_JPEG-1024x682.jpg 1024w, https://uploads.filipeflop.com/2018/12/motor_pwm_arduino_uno_JPEG-600x399.jpg 600w" alt="Figura 5 - circuito esquem&aacute;tico" width="599" height="399" /></p>
 
 
