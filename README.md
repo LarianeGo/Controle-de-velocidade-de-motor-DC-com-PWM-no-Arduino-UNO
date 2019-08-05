@@ -46,6 +46,12 @@ Ou seja, para Duty Cycle de 100%, deve-se utilizar valor 255, já para Duty Cycl
 # ATENÇÃO:
 
 1) NÃO utilize a alimentação pela USB de programação. Você, obrigatoriamente, deve utilizar a Fonte DC Chaveada 9V/1A. Caso contrário, você corre sérios riscos de danificar o dispositivo que está alimentando o Arduino pela USB de programação (computador, por exemplo).
-
 2) NÃO SE ESQUEÇA de colocar um jumper em ATIVA MA .
+
+<h1 class="western"><span style="font-size: xx-large;"><em><span style="color: #747474;"><strong>Circuito esquem&aacute;tico</strong></span></em></span></h1>
+<p><img src="file:///C:/Users/Aluno/AppData/Local/Temp/lu61004859jx.tmp/lu61004859ka_tmp_aba501163294a4af.jpg" width="602" height="603" name="image2.jpg" align="bottom" border="0" /></p>
+<h2><span style="font-size: small;"><em><span style="color: #747474;">O motor deve ser ligado como o esquema abaixo.</span></em></span></h2>
+<p><img src="file:///C:/Users/Aluno/AppData/Local/Temp/lu61004859jx.tmp/lu61004859ka_tmp_3656475efd271806.jpg" width="602" height="401" name="image1.jpg" align="bottom" border="0" /></p>
+<p>&nbsp;</p>
+
 
